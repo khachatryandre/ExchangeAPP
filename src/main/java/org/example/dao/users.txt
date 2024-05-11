@@ -1,0 +1,3 @@
+andre@gmail.com password ADMIN
+user pass USER
+email password USER
